@@ -1,43 +1,79 @@
-<h1>Hi, I'm Brian Cheruiyot! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://github.com/CheruBrian/ActiveDirecoryLab">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">Student</a></h1>
+<!-- Header Banner / Hero -->
+<div align="center">
+<h1>Hi, I’m <span title="Pronounced like…">Brian Cheruiyot</span> 👋</h1>
+<p><strong>ALX Software Engineering Learner</strong> · Frontend & Backend · Building creative apps & AI experiences</p>
 
-<h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Active Directory Lab</b>
-  - [Active Direcotry Lab](https://github.com/CheruBrian/ActiveDirecoryLab)
-- <b>Certificates</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+<!-- Quick Badges (adjust as needed) -->
+<a href="https://github.com/CheruBrian?tab=followers"><img src="https://img.shields.io/github/followers/CheruBrian?label=Follow&style=for-the-badge"></a>
+<a href="mailto:cheruiyotbrian2000@gmail.com"><img src="https://img.shields.io/badge/Email-cheruiyotbrian2000@gmail.com-informational?style=for-the-badge"></a>
+<a href="https://www.linkedin.com/in/brian-cheruiyot-7b30b5213/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge"></a>
+<!-- <a href="https://YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge"></a> -->
+</div>
 
-<h2>📺 Popular YouTube Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+---
 
-<h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<!-- Elevator Pitch -->
+<p>
+I’m a software engineering learner at <strong>ALX</strong> focused on shipping clean, user‑centric software. I care about <strong>creativity</strong>—from intuitive UI to elegant backend design—and I’m aiming to become a <strong>great software engineer</strong> by building <strong>apps</strong> and exploring <strong>AI</strong> in real products.
+</p>
 
-[twitter]: https://x.com/cheru74762
-[youtube]: https://www.youtube.com/c/@briancheruiyot2608
-[instagram]: https://www.instagram.com/_brian_cheru_01/
-[linkedin]: https://www.linkedin.com/in/brian-cheruiyot-7b30b5213/
 
+<!-- Snapshot / Highlights -->
+<ul>
+<li>🔭 Currently building: <strong>PROJECT_ONE</strong> – Hosiptal Website.</li>
+<li>🌱 Learning: <strong>React · TypeScript · Node.js · Python · AI/LLM basics</strong>.</li>
+<li>🤝 Open to: <strong>collaboration</strong> on impactful web & AI projects.</li>
+<li>🎯 Goal: Ship production‑grade apps with measurable user impact.</li>
+<li>📍 Location: Nairobi, Kenya · ⏱ Timezone: EAT (UTC+3)</li>
+</ul>
+
+
+---
+
+
+<!-- Skills / Toolbox -->
+<h3>🧰 Toolbox</h3>
+
+
+<!-- Keep it scannable. Swap or add tools that fit you. -->
+<p>
+<strong>Frontend:</strong> HTML · CSS · Tailwind · JavaScript (ES6+) · TypeScript · React · Next.js<br/>
+<strong>Backend:</strong> Node.js · Express · Python · Flask/FastAPI · REST · GraphQL<br/>
+<strong>AI/ML (starter):</strong> Prompting · LLM APIs · basic NLP pipelines<br/>
+<strong>DB/Infra:</strong> PostgreSQL · MongoDB · Prisma · Docker · CI/CD (GitHub Actions)<br/>
+<strong>Testing:</strong> Jest · React Testing Library · Postman<br/>
+<strong>Collab:</strong> Git · GitHub · Issues · Projects · Conventional Commits
+</p>
+
+
+<!-- Skill Badges (optional: pick a few, don’t overdo) -->
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+<img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB">
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white">
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white">
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white">
+</p>
+-->
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+
+<!-- Featured Work (Pin the same repos below) -->
+<h3>🚀 Featured Projects</h3>
+
+
+<table>
+<tr>
+<td>
+<strong><a [href="https://github.com/CheruBrian/REPO_ONE">REPO_ONE</a></strong><br/>
+One‑sentence value: who it helps + outcome. <br/>
+<sub>Stack: React · TypeScript · Node · Postgres | Live: <a href="https://REPO_ONE_DEMO">demo</a></sub>
+</td>
+</tr>
 -->
